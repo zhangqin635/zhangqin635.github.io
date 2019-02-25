@@ -1,5 +1,5 @@
 # About me
-![Image of Qin Zhang](https://octodex.github.com/images/yaktocat.png)
+![Image of Qin Zhang]
 
 
 Xuesong Zhou joined the School of Sustainable Engineering and the Built Environment at [Arizona State University](https://isearch.asu.edu/profile/2182101) in 2013. Previously, he was an associate professor at University of Utah.
@@ -38,6 +38,7 @@ Operations research: Nonlinear programming, integer programming, network optimiz
 - Zhou,Xuesong*. Green accessibility: Measuring the environmental costs of space-time prisms in sustainable transportation planning. OHIO STATE UNIVERSITY(7/1/2013 - 2/29/2016).
 
 # Teaching
+
 **Spring 2019**
 
 Course Number | Course Title
