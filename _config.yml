@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Xuesong Zhou"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "qin.jpg"
+  bio              : "Assoc Professor "
+  location         : "Faculty, TEMPE Campus, Mailcode 3005 "
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "Xuesong.Zhou@asu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "xuesongzhou"
   google_plus      :
   keybase          :
   instagram        :
@@ -178,10 +178,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  news:
     output: true
     permalink: /:collection/:path/
-  talks:
+  people:
     output: true
     permalink: /:collection/:path/
 
@@ -224,7 +224,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _news
   - scope:
       path: ""
       type: portfolio
@@ -233,7 +233,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _people
   - scope:
       path: ""
       type: talks
