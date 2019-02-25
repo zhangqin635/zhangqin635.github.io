@@ -39,6 +39,7 @@ Operations research: Nonlinear programming, integer programming, network optimiz
 
 # Teaching
 **Spring 2019**
+
 Course Number | Course Title
 ------------- | -------------
 CEE 372 | [Transportation Engineering](https://webapp4.asu.edu/catalog/course?s=CEE&n=372)
