@@ -1,4 +1,4 @@
-### About me
+# About me
 
 
 
@@ -13,7 +13,7 @@ Zhou is the co-chair of the IEEE ITS Society Technical Committee on Traffic and 
 
 Students advised by Zhou have won a number of awards: Jeffrey Taylor received the Council of University Transportation Centers Pikarsky Award-Science & Technology-MS, 2014, Tie Shi won the First Prize in Management Science in Railroad Applications Paper Contest, Institute for Operations Research and Management Science (INFORMS), 2014. Tao Xing, Kenneth Williams, Rohan Madtha, Daniel Van Tassell won Windows Mobile Award, Microsoft's Imagine Cup Student Technology Competition, 2009, out of 125 participating student teams in the U.S.
 
-### Research Interests
+# Research Interests
 
 **Transportation planning**: Dynamic traffic assignment, traffic demand analysis
 
@@ -24,7 +24,7 @@ Students advised by Zhou have won a number of awards: Jeffrey Taylor received th
 **Computer applications for Intelligent Transportation Systems**: Visualization analytics, distributed computing and communications
 Operations research: Nonlinear programming, integer programming, network optimization
 
-### Research Activity
+# Research Activity
 
 - Zhou,Xuesong*. Collaborative Research: Improving Spatial Observability of Dynamic Traffic Systems through Active Mobile Sensor Networks and Crowdsourced Data. NSF-ENG-CMMI(6/15/2015 - 5/31/2018).()
 - Zhou,Xuesong*. Dynamic Traffic Modeling in Beijing. BTRC(5/15/2015 - 1/15/2016).
@@ -49,7 +49,7 @@ I am a Ph.D candidate student at [School of Traffic and transportation of Beijin
 
 My current research centers on the area of train timetbling optimization.
 
-### For my research direction
+# For my research direction
 
 - My current research centers on the area of **train timetbling optimization**. 
 - See [more info about Beijing Jiaotong University](www.njtu.edu.cn/)
