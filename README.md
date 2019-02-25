@@ -1,8 +1,6 @@
 ### About me
 
-You can use the [editor on GitHub](https://github.com/zhangqin635/zhangqin635.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Xuesong Zhou joined the School of Sustainable Engineering and the Built Environment at [Arizona State University](https://isearch.asu.edu/profile/2182101) in 2013. Previously, he was an associate professor at University of Utah.
 
@@ -43,7 +41,9 @@ Operations research: Nonlinear programming, integer programming, network optimiz
 
 
 
+You can use the [editor on GitHub](https://github.com/zhangqin635/zhangqin635.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 I am a Ph.D candidate student at [School of Traffic and transportation of Beijing Jiaotong University](http://trans.njtu.edu.cn/cms/). 
 
