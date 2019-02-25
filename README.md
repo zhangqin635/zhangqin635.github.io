@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+##About me
 
 You can use the [editor on GitHub](https://github.com/zhangqin635/zhangqin635.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Ph.D candidate student at [School of Traffic and transportation of Beijing Jiaotong University](http://trans.njtu.edu.cn/cms/). 
 
-### Qin Zhang
+My current research centers on the area of train timetbling optimization.
+
+### For my research direction
+
+- My current research centers on the area of **train timetbling optimization**. 
+- See [more info about Beijing Jiaotong University](www.njtu.edu.cn/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
